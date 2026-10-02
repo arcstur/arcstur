@@ -1,6 +1,6 @@
 ## Buenas!
 
-I'm Artur, a software developer from Porto Alegre (Brazil), coding professionally since 2022. I've been mostly working with creating and maintaning web applications with Django using the best practices in the industry, Docker, PostgreSQL, as well as data analysis with Pandas. In the Wikimedia Movement, I have built and maintained tools to help the community edit better and faster.
+I'm Artur, a software developer from Porto Alegre, coding professionally since 2022. I've been mostly working with creating and maintaning web applications with Django using the best practices in the industry, Docker, PostgreSQL, as well as data analysis with Pandas. In the Wikimedia Movement, I have built and maintained tools to help the community edit better and faster.
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
